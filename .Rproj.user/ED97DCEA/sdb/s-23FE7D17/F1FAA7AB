@@ -1,0 +1,16 @@
+{
+    "contents" : "#' @export\nsushi <- function(){\n  require(\"remoji\")\n  message(sub_emoji(\":sushi:is sushi\"))\n}",
+    "created" : 1423894826805.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "961449907",
+    "id" : "F1FAA7AB",
+    "lastKnownWriteTime" : 1423895943,
+    "path" : "~/sushi/R/sushi.R",
+    "project_path" : "R/sushi.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
